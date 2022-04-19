@@ -39,3 +39,27 @@ cd week_2
 node Seven.js ../stop_words.txt ../pride-and-prejudice.txt
 ```
 ![image](res/week2/image4.png)
+
+## Week 3
+### Exercise 8
+In the shell window, write:
+```
+cd week_3
+g++ -o Eight Eight.cpp
+./Eight ../stop_words.txt ../pride-and-prejudice.txt
+```
+![image](res/week3/image1.png)
+### Exercise 9
+In the shell window, write:
+```
+cd week_3
+node Nine.js ../stop_words.txt ../pride-and-prejudice.txt
+```
+![image](res/week3/image2.png)
+### Exercise 10
+In the shell window, write:
+```
+cd week_2
+node Ten.js ../stop_words.txt ../pride-and-prejudice.txt
+```
+![image](res/week3/image3.png)
