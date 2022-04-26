@@ -6,7 +6,6 @@ cd week_1
 g++ -o countFirst25Words countFirst25Words.cpp
 ./countFirst25Words ../stop_words.txt ../pride-and-prejudice.txt
 ```
-![image](res/week1/week1.png)
 
 ## Week 2
 ### Exercise 4
@@ -16,7 +15,6 @@ cd week_2
 g++ -o Four Four.cpp
 ./Four ../stop_words.txt ../pride-and-prejudice.txt
 ```
-![image](res/week2/image1.png)
 ### Exercise 5
 In the shell window, write:
 ```
@@ -24,21 +22,18 @@ cd week_2
 g++ -o Five Five.cpp
 ./Five ../stop_words.txt ../pride-and-prejudice.txt
 ```
-![image](res/week2/image2.png)
 ### Exercise 6
 In the shell window, write:
 ```
 cd week_2
 node Six.js ../stop_words.txt ../pride-and-prejudice.txt
 ```
-![image](res/week2/image3.png)
 ### Exercise 7
 In the shell window, write:
 ```
 cd week_2
 node Seven.js ../stop_words.txt ../pride-and-prejudice.txt
 ```
-![image](res/week2/image4.png)
 
 ## Week 3
 ### Exercise 8
@@ -48,18 +43,37 @@ cd week_3
 g++ -o Eight Eight.cpp
 ./Eight ../stop_words.txt ../pride-and-prejudice.txt
 ```
-![image](res/week3/image1.png)
 ### Exercise 9
 In the shell window, write:
 ```
 cd week_3
 node Nine.js ../stop_words.txt ../pride-and-prejudice.txt
 ```
-![image](res/week3/image2.png)
 ### Exercise 10
 In the shell window, write:
 ```
 cd week_2
 node Ten.js ../stop_words.txt ../pride-and-prejudice.txt
 ```
-![image](res/week3/image3.png)
+
+## Week 4
+### Exercise 12
+In the shell window, write:
+```
+cd week_4
+g++ -o Twelve Twelve.cpp
+./Twelve ../stop_words.txt ../pride-and-prejudice.txt
+```
+### Exercise 13
+In the shell window, write:
+```
+cd week_4
+node Thirteen.js ../stop_words.txt ../pride-and-prejudice.txt
+```
+
+### Exercise 15
+In the shell window, write:
+```
+cd week_4
+node Fifteen.js ../stop_words.txt ../pride-and-prejudice.txt
+```
