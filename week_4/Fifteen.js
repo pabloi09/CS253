@@ -16,9 +16,6 @@ class WordFrequencyFramework {
     this._end_event_handlers.push(handler)
   }
   run(args){
-    for (var i=0; i < this._load_event_handlers.length; i++){
-      this._load_event_handlers[i](args)
-    }
     this._load_event_handlers.forEach(handler => handler(args))
     this._dowork_event_handlers.forEach(handler => handler())
     this._end_event_handlers.forEach(handler => handler())
