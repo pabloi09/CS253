@@ -71,9 +71,62 @@ cd week_4
 node Thirteen.js ../stop_words.txt ../pride-and-prejudice.txt
 ```
 
+I did not notice about 13.2 and 13.3. I am uploading them late in the file Thirteen-SecondPart.js
+
+In the shell window, write:
+```
+cd week_4
+node Thirteen-SecondPart.js ../stop_words.txt ../pride-and-prejudice.txt
+```
 ### Exercise 15
 In the shell window, write:
 ```
 cd week_4
 node Fifteen.js ../stop_words.txt ../pride-and-prejudice.txt
 ```
+I did not notice about 15.2. I am uploading them late in the file Fifteen-SecondPart.js
+
+In the shell window, write:
+```
+cd week_4
+node Fifteen-SecondPart.js ../stop_words.txt ../pride-and-prejudice.txt
+```
+## Week 5
+### Exercise 17
+In the shell window, write:
+```
+cd week_5
+javac Seventeen.java
+java Seventeen ../stop_words.txt ../pride-and-prejudice.txt
+```
+### Exercise 20
+```
+cd week_5
+chmod +x build.sh
+./build.sh
+java -jar deploy/framework.jar ../stop_words.txt ../pride-and-prejudice.txt 
+```
+
+## Week 6
+
+### Exercise 29
+```
+cd week_6
+g++ -pthread -o TwentyNine.o TwentyNine/TwentyNine.cpp TwentyNine/WFApp.cpp
+./TwentyNine.o ../stop_words.txt ../pride-and-prejudice.txt
+```
+
+### Exercise 30
+```
+cd week_6
+g++ -pthread -o Thirty.o Thirty/Thirty.cpp
+./Thirty.o ../stop_words.txt ../pride-and-prejudice.txt
+```
+
+### Exercise 32
+```
+cd week_6
+g++ -o ThirtyTwo.o ThirtyTwo/ThirtyTwo.cpp
+./ThirtyTwo.o ../stop_words.txt ../pride-and-prejudice.txt
+```
+ 
